@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: Comic Sans MS, Comic Sans, cursive
+	font: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif
 }
 .homePage {
 	background: #EBC17F;
