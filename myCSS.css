@@ -2,17 +2,18 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif
+	font: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif 
+  
 }
 .homePage {
-	background: #EBC17F;
+	background: #336645;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #EB8D7F;
+	background: #598960;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -22,7 +23,7 @@ body {
 	
 }
 .nav {
-	background: #EBA07F;
+	background: #87A88A;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -31,7 +32,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EBDACD;
+	background: #E1EEDC;
 	margin: 10px;
 	padding: 5;
 	float: left;
@@ -39,7 +40,7 @@ body {
 	text-align: left;
 }
 .footer {
-	background: #EBAF7F;
+	background: #87A88A;
 	margin: 0px;
 	float: left;
 	width: 100%;
